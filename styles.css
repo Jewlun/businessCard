@@ -5,7 +5,8 @@ body {
     Find a web safe font you like, and add it 
     to your card.
     */
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(254, 197, 127);
 }
 
 .avatar {
